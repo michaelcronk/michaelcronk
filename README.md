@@ -1,8 +1,6 @@
 ### Hello, the name is Michael! 👋
 
-📚 **I am a LIFELONG learner**
-
-*Learning more and more everyday*
+📚 *Learning more and more everyday*
 
 * `Python`
 * `HTML`
