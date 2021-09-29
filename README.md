@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello, the name is Michael! 👋
 
-<!--
-**michaelcronk/michaelcronk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 **I am a LIFELONG learner**
 
-Here are some ideas to get you started:
+*Learning more and more everyday*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* `Python`
+* `HTML`
+* `CSS`
+
+I catch onto things fast and am always open to new ideas and concepts.
+
+📱 `You can reach me through a twitter DM or email me` 📧
