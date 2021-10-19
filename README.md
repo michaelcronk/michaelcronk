@@ -3,8 +3,6 @@
 📚 *Learning more and more everyday*
 
 * `Python`
-* `HTML`
-* `CSS`
 
 I catch onto things fast and am always open to new ideas and concepts.
 
