@@ -2,7 +2,10 @@
 
 📚 *Learning more and more everyday*
 
-* `Python`
+* `HTML`
+* `CSS`
+* `JavaScript`
+* A little bit of `Python`
 
 I catch onto things fast and am always open to new ideas and concepts.
 
