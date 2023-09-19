@@ -2,11 +2,11 @@
 
 📚 *Learning more and more everyday*
 
-* `HTML`
-* `CSS`
-* `JavaScript`
-* A little bit of `Python`
+* `Azure`
+* `Linux`
+* `BASH`
+* `Python`
 
 I catch onto things fast and am always open to new ideas and concepts.
 
-📱 `You can reach me through a twitter DM or email me` 📧
+📱 `You can reach me through LinkedIn or email me` 📧
