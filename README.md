@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelcronk&label=Profile%20views&color=0e75b6&style=flat" alt="michaelcronk" /> </p>
 
-- 💬 Ask me about **JavaScript, Node.js, Express.js, HTML, CSS, Python, Linux or Azure**
+- 💬 Ask me about **Python, Linux or Azure**
 
 - 📫 How to reach me **michael.cronk1@gmail.com**
 
