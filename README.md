@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Michael Cronk 👋</h1>
-<h3 align="center">A passionate Software Developer from the United States</h3>
+<h3 align="center">An inspiring Cloud Security Engineer from the United States</h3>
 <br>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
