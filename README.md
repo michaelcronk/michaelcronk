@@ -1,12 +1,12 @@
 <h1 align="center">Hello, I'm Michael Cronk 👋</h1>
 
-<h3 align="center">An Inspiring Cloud Security Engineer from the United States</h3>
+<h3 align="center">An Aspiring Back-end Software Developer from the United States</h3>
 <br>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelcronk&label=Profile%20views&color=0e75b6&style=flat" alt="michaelcronk" /> </p>
 
-- 💬 Ask me about **Python, Linux or Microsoft Azure**
+- 💬 Ask me about **Python, SQL, HTML, CSS, Linux or Microsoft Azure**
 
 - 📫 How to reach me **michael.cronk1@gmail.com**
 
